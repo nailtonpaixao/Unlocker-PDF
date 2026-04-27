@@ -3,15 +3,12 @@ from pathlib import Path
 from pypdf import PdfReader, PdfWriter
 from getpass import getpass
 
-'''
-   __  __      __           __                   ____  ____  ______
+print(r"""
   / / / /___  / /___  _____/ /_____  _____      / __ \/ __ \/ ____/
  / / / / __ \/ / __ \/ ___/ //_/ _ \/ ___/_____/ /_/ / / / / /_    
 / /_/ / / / / / /_/ / /__/ ,< /  __/ /  /_____/ ____/ /_/ / __/    
-\____/_/ /_/_/\____/\___/_/|_|\___/_/        /_/   /_____/_/       
-                                                                   
-Script desenvolvido para desbloqueio de PDFs com senha. Por Nailton P.
- '''
+\____/_/ /_/_/\____/\___/_/|_|\___/_/       /_/   /_____/_/       
+""")
 
 
 def unlock_pdf():
