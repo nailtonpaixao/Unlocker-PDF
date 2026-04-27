@@ -18,4 +18,4 @@ Script em Python para remover senhas de arquivos PDF gerando uma cópia do arqui
    pip install pypdf
 2. Modo de uso:
     ```bash
-   python3 unlocked.py nome_do_arquivo.pdf
+   python3 unlocker-pdf.py nome_do_arquivo.pdf
